@@ -1,32 +1,23 @@
 # Welcome to 天线宝宝'park.
 
+
+## 忘不掉的曾经
 - 挺过六月艰辛，取得他人千金。
 - 忍辱负重半年，独领风骚一世。
 - 我感觉浑身充满了力量，强都打不死我。
 
 
+## 改不了的想法
+科学研究就是渴望无知的过程。
 
 
-## Header 2
-### Header 3
+## 翻不过的坎
+我是父母的孩子，但终将成为他们牵挂一生相见寥寥的远方。
+我是故乡的游子，但终将成了她日渐陌生又终将遗忘的叛徒。
 
-- Bulleted
-- List
+## 瑞瑞语录
+人生就像电视剧，要从头看到尾，跳着看就没意思了，直接看大结局又有什么意思呢？要的是过程。
 
-1. Numbered
-2. List
+# 你以为这样就完了?
 
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/lirui-2018/lirui-2018.github.io/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+...更新中...
