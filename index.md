@@ -5,7 +5,9 @@
 ## 我是郑凯我最帅！我最帅！我最帅！枪都打不死我！
 ![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720181226215158.jpg)
 
-![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846347122&di=69204362108f7441d512abe9a83b4f2f&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D183893709%2C3602818905%26fm%3D214%26gp%3D0.jpg)
+![1](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846347122&di=69204362108f7441d512abe9a83b4f2f&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D183893709%2C3602818905%26fm%3D214%26gp%3D0.jpg)
+
+![2](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846487755&di=2140323599b161ee5064b114d81acacd&imgtype=0&src=http%3A%2F%2Fpic.2265.com%2Fupload%2F2017-6%2F2017616181142986080.jpg)
 ## 忘不掉的曾经
 - 挺过六月艰辛，取得他人千金。
 - 忍辱负重半年，独领风骚一世。
