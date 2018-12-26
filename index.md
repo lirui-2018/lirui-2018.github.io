@@ -4,17 +4,17 @@ You can use the [editor on GitHub](https://github.com/lirui-2018/lirui-2018.gith
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+###Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block
 
-# 今天多么美好,哇，又看到叶浩，老了，老了，哈哈哈哈哈哈哈！！！！
+#今天多么美好,哇，又看到叶浩，老了，老了，哈哈哈哈哈哈哈！！！！
 
-## Header 2
-### Header 3
+##Header 2
+###Header 3
 
 - Bulleted
 - List
