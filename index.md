@@ -1,17 +1,11 @@
-## Welcome to 天线宝宝'park.
+# Welcome to 天线宝宝'park.
 
-You can use the [editor on GitHub](https://github.com/lirui-2018/lirui-2018.github.io/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+- 挺过六月艰辛，取得他人千金。
+- 忍辱负重半年，独领风骚一世。
+- 我感觉浑身充满了力量，强都打不死我。
 
 
 
-
-# 今天多么美好,哇，又看到叶浩，老了，老了，哈哈哈哈哈哈哈！！！！
 
 ## Header 2
 ### Header 3
