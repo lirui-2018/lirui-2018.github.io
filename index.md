@@ -5,7 +5,7 @@
 ## 我是郑凯我最帅！我最帅！我最帅！枪都打不死我！
 ![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720181226215158.jpg)
 
-![](https://image.baidu.com/search/detail?ct=503316480&z=0&ipn=d&word=%E6%9E%81%E5%93%81%E9%A3%9E%E8%BD%A6&step_word=&hs=0&pn=1&spn=0&di=109887177180&pi=0&rn=1&tn=baiduimagedetail&is=0%2C0&istype=2&ie=utf-8&oe=utf-8&in=&cl=2&lm=-1&st=-1&cs=183893709%2C3602818905&os=11027896%2C3832183611&simid=4130951248%2C484232824&adpicid=0&lpn=0&ln=1902&fr=&fmq=1545836261282_R&fm=result&ic=&s=undefined&hd=&latest=&copyright=&se=&sme=&tab=0&width=&height=&face=undefined&ist=&jit=&cg=&bdtype=0&oriquery=&objurl=http%3A%2F%2Fpic2016.ytqmx.com%3A82%2F2017%2F0112%2F26%2F2.jpg!960.jpg&fromurl=ippr_z2C%24qAzdH3FAzdH3Fooo_z%26e3Bc99d_z%26e3Bv54AzdH3Fy57xtAzdH3Fda80a88dAzdH3Fnl0bl_z%26e3Bip4s&gsm=0&rpstart=0&rpnum=0&islist=&querylist=&force=undefined)
+![](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846347122&di=69204362108f7441d512abe9a83b4f2f&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D183893709%2C3602818905%26fm%3D214%26gp%3D0.jpg)
 ## 忘不掉的曾经
 - 挺过六月艰辛，取得他人千金。
 - 忍辱负重半年，独领风骚一世。
