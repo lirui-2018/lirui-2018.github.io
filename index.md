@@ -3,7 +3,7 @@
 
 
 ## 我是郑凯我最帅！我最帅！我最帅！枪都打不死我！
-![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720181226215158.jpg)
+![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720181226215158.jpg?raw=true)
 
 ![1](https://timgsa.baidu.com/timg?image&quality=80&size=b9999_10000&sec=1545846347122&di=69204362108f7441d512abe9a83b4f2f&imgtype=jpg&src=http%3A%2F%2Fimg4.imgtn.bdimg.com%2Fit%2Fu%3D183893709%2C3602818905%26fm%3D214%26gp%3D0.jpg)
 
