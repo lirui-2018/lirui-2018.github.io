@@ -63,4 +63,4 @@
 
 ...更新中...
 
-{{ site.time | date_to_rfc822 }}
+{{ post.time | date_to_string }}
