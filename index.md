@@ -1,11 +1,15 @@
 
-#                                         Welcome to 天线宝宝'park.
+#                                         这里是 天线宝宝
 
 
 ## 我是郑凯我最帅！我最帅！我最帅！枪都打不死我！
-![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/QQ%E5%9B%BE%E7%89%8720181226215158.jpg?raw=true)
+![郑凯](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/-16c495ffd7be0f49.jpg)
 
 ## 我是天线宝宝
+#### 有时是这样
+![](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/-706c460ab050a964.gif)
+#### 有时也是这样
+![](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/784917a46bde4e01.gif)
 ### 帅到模糊
 ![](https://github.com/lirui-2018/lirui-2018.github.io/blob/master/-5cb8eae25ecb34.jpg?raw=true)
 ### 敢不敢直视我的眼睛
