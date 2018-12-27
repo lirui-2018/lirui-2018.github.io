@@ -66,4 +66,4 @@
 ## 你以为这样就完了?
 
 ...持续更新中...
-{{ site.time }}
+{{ site.time | date_to_string }}
